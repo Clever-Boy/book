@@ -1,4 +1,4 @@
-### Nightly builds - http://dtscode.io/~lysa/develop/
+### Nightly builds - http://dtscode.io/~lm-book/develop/
 
 # The Book [![Build status](https://travis-ci.org/learnmath/book.svg)](https://travis-ci.org/learnmath/book)
 
@@ -8,8 +8,8 @@ to math. You can see the source for the book in the `book/` directory.
 
 # Builds
 
-Nightly builds are available at [develop/](http://dtscode.io/~lysa/develop/).
-Releases are available at [master/](http://dtscode.io/~lysa/master/). As of
+Nightly builds are available at [develop/](http://dtscode.io/~lm-book/develop/).
+Releases are available at [master/](http://dtscode.io/~lm-book/master/). As of
 now, there are no releases.
 
 For more details on the build system, refer to the [guide to

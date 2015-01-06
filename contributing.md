@@ -125,7 +125,7 @@ Here is the required software you need to contribute:
 
 TeX is the markup language in which this book is written, so you need a TeX
 distribution to compile it. Note that if you are only interested in the PDF
-file, we publish regular builds [here](http://184.164.72.39/lysa/). The target
+file, we publish regular builds [here](http://dtscode.io/~lm-book/). The target
 TeX distribution is [TeXLive][texlive], but it probably works on other TeX
 distributions. Below you can find installation instructions for select operating
 systems. If you don't see your operating system there, but know what software is
@@ -206,7 +206,7 @@ All other builds (such as PRs) are uploaded onto [transfer.sh][transfer-sh]. The
 
 Links to the builds are available at the bottom of every build.
 
-[dtscode-vps]: http://dtscode.io/~lysa/
+[dtscode-vps]: http://dtscode.io/~lm-book/
 [transfer-sh]: https://transfer.sh/
 
 ## Skipping a build

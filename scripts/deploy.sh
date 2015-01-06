@@ -8,7 +8,7 @@ deploy_server() {
   ssh-keyscan -t rsa,dsa -H $HOST 2>&1 | tee -a $HOME/.ssh/known_hosts
   ssh -i book_rsa $USER@$HOST "mkdir -p public_html/$1" || exit 1
   scp -i book_rsa book/book.pdf $USER@$HOST:public_html/$1/$2 || exit 1
-  echo "http://dtscode.io/~lysa/$1/$2"
+  echo "http://dtscode.io/~lm-book/$1/$2"
 }
 
 if [[ $TRAVIS_PULL_REQUEST == "false" ]]; then
